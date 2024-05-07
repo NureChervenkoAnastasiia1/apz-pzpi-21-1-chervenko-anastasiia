@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TastifyAPI",
+    "\\TastifyAPI\\Controllers",
+    "\\TastifyAPI\\Data",
+    "\\TastifyAPI\\DTOs",
+    "\\TastifyAPI\\Entities",
+    "\\TastifyAPI\\Mapping",
+    "\\TastifyAPI\\Models"
+  ],
+  "SelectedNode": "\\TastifyAPI.sln",
+  "PreviewInSolutionExplorer": false
+}

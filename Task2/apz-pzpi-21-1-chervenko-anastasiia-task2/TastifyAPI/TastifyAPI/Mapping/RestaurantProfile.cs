@@ -10,9 +10,10 @@ namespace TastifyAPI.Mapping
     {
         public RestaurantProfile()
         {
-            CreateMap<Restaurant, RestaurantDTO>();
-            CreateMap<RestaurantCreateDTO, Restaurant>();
-            CreateMap<RestaurantUpdateDTO, Restaurant>();
+            CreateMap<Restaurant, RestaurantDto>();
+            CreateMap<RestaurantDto, Restaurant>();
+            CreateMap<RestaurantCreateDto, Restaurant>();
+            CreateMap<RestaurantUpdateDto, Restaurant>();
         }
     }
 }

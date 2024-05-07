@@ -3,72 +3,200 @@
   "WorkspaceRootPath": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\createdtos\\restaurantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\createdtos\\restaurantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\iservices\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\iservices\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\updatedtos\\restaurantupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\updatedtos\\restaurantupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\iservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\restaurantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\restaurantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\iservices\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\iservices\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\mapping\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\mapping\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\mapping\\restaurantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\mapping\\restaurantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\mapping\\automapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\mapping\\automapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\tastifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\tastifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\mapping\\menuprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\mapping\\menuprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\updatedtos\\restaurantupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\updatedtos\\restaurantupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\restarurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\restarurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\createdtos\\restaurantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\createdtos\\restaurantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\tastifydbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\tastifydbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\updatedtos\\staffupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\updatedtos\\staffupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\updatedtos\\menuupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\updatedtos\\menuupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\mapping\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\mapping\\staffprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\createdtos\\menucreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\createdtos\\menucreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\extentions\\jwtserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\extentions\\jwtserviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\stafflogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\stafflogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\restarurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\restarurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\models\\tastifydbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\models\\tastifydbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|c:\\users\\moivt\\source\\repos\\tastifyapi\\tastifyapi\\tastifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00CA1E9F-1B89-4995-BE0D-13A07C0D22E1}|TastifyAPI\\TastifyAPI.csproj|solutionrelative:tastifyapi\\tastifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -144,11 +272,24 @@
         },
         {
           "DockedWidth": 90,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IBookingService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\IServices\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IBookingService.cs",
+              "RelativeToolTip": "TastifyAPI\\IServices\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:51:21.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -164,28 +305,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestaurantUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDTO.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDTO.cs",
-              "RelativeToolTip": "TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IProductService.cs",
+              "RelativeToolTip": "TastifyAPI\\IServices\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:56:01.515Z",
+              "WhenOpened": "2024-05-07T18:36:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:51:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "TastifyAPI\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:20:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "TastifyAPI\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:45:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\IServices\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IRestaurantService.cs",
+              "RelativeToolTip": "TastifyAPI\\IServices\\IRestaurantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:28:25.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\IServices\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\IServices\\IOrderService.cs",
+              "RelativeToolTip": "TastifyAPI\\IServices\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:25:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Services\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "TastifyAPI\\Services\\RestaurantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:31:18.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RestaurantController.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\RestaurantController.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\RestaurantController.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\RestaurantController.cs",
-              "RelativeToolTip": "TastifyAPI\\Controllers\\RestaurantController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAANAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Program.cs",
+              "RelativeToolTip": "TastifyAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T15:28:36.915Z",
+              "WhenOpened": "2024-04-29T12:20:56.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAawIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:50:41.802Z",
               "EditorCaption": ""
             },
             {
@@ -194,156 +426,436 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RestaurantsService.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\RestaurantsService.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Services\\RestaurantsService.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\RestaurantsService.cs",
-              "RelativeToolTip": "TastifyAPI\\Services\\RestaurantsService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T17:31:18.194Z",
+              "WhenOpened": "2024-05-07T14:06:41.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestaurantCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDTO.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDTO.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDTO.cs",
-              "RelativeToolTip": "TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Menu.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:55:20.598Z",
+              "WhenOpened": "2024-05-03T21:20:30.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Restaurant.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Restaurant.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Restaurant.cs",
-              "RelativeToolTip": "TastifyAPI\\Entities\\Restaurant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\MenuDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\MenuDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\MenuDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\MenuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T19:45:20.545Z",
+              "WhenOpened": "2024-05-03T21:20:53.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Staff.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Staff.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Staff.cs",
-              "RelativeToolTip": "TastifyAPI\\Entities\\Staff.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBIAAABLAAAA",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T19:45:18.377Z",
+              "WhenOpened": "2024-05-07T14:10:38.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Order.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:21:42.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Guest.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Guest.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Guest.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:18:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Booking.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:54:18.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "RestaurantProfile.cs",
               "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\RestaurantProfile.cs",
               "RelativeDocumentMoniker": "TastifyAPI\\Mapping\\RestaurantProfile.cs",
               "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\RestaurantProfile.cs",
               "RelativeToolTip": "TastifyAPI\\Mapping\\RestaurantProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:34:19.328Z",
+              "WhenOpened": "2024-05-02T17:34:19.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:21:41.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestaurantDTO.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\RestaurantDTO.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\RestaurantDTO.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\RestaurantDTO.cs",
-              "RelativeToolTip": "TastifyAPI\\DTOs\\RestaurantDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "DocumentIndex": 17,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Mapping\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\ProductProfile.cs",
+              "RelativeToolTip": "TastifyAPI\\Mapping\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T16:56:28.182Z"
+              "WhenOpened": "2024-05-07T17:40:29.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TastifyAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
-              "RelativeDocumentMoniker": "TastifyAPI\\TastifyAPI.csproj",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
-              "RelativeToolTip": "TastifyAPI\\TastifyAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-02T17:23:20.667Z"
+              "DocumentIndex": 20,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:54:23.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "AutoMapperExtensions.cs",
               "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\AutoMapperExtensions.cs",
               "RelativeDocumentMoniker": "TastifyAPI\\Mapping\\AutoMapperExtensions.cs",
               "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\AutoMapperExtensions.cs",
               "RelativeToolTip": "TastifyAPI\\Mapping\\AutoMapperExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T17:24:39.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
+              "Title": "MenuProfile.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\MenuProfile.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Mapping\\MenuProfile.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\MenuProfile.cs",
+              "RelativeToolTip": "TastifyAPI\\Mapping\\MenuProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:23:07.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RestaurantUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\UpdateDTOs\\RestaurantUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:25:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RestaurantCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\CreateDTOs\\RestaurantCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:26:33.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaffUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\StaffUpdateDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\UpdateDTOs\\StaffUpdateDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\StaffUpdateDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\UpdateDTOs\\StaffUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:49:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\RestaurantDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\RestaurantDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\RestaurantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:56:28.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\MenuService.cs",
+              "RelativeToolTip": "TastifyAPI\\Services\\MenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:51:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\GuestsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:51:03.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:51:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\MenuUpdateDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\UpdateDTOs\\MenuUpdateDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\UpdateDTOs\\MenuUpdateDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\UpdateDTOs\\MenuUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:22:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:49:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:49:29.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StaffProfile.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\StaffProfile.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Mapping\\StaffProfile.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Mapping\\StaffProfile.cs",
+              "RelativeToolTip": "TastifyAPI\\Mapping\\StaffProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:02:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "StaffService.cs",
               "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\StaffService.cs",
               "RelativeDocumentMoniker": "TastifyAPI\\Services\\StaffService.cs",
               "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\StaffService.cs",
               "RelativeToolTip": "TastifyAPI\\Services\\StaffService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T19:37:55.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Restarurant.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\Restarurant.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Models\\Restarurant.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\Restarurant.cs",
-              "RelativeToolTip": "TastifyAPI\\Models\\Restarurant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "DocumentIndex": 35,
+              "Title": "MenuCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\MenuCreateDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\CreateDTOs\\MenuCreateDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\CreateDTOs\\MenuCreateDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\CreateDTOs\\MenuCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T17:14:19.784Z"
+              "WhenOpened": "2024-05-03T21:21:31.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TastifyDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\TastifyDbSettings.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Models\\TastifyDbSettings.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\TastifyDbSettings.cs",
-              "RelativeToolTip": "TastifyAPI\\Models\\TastifyDbSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "DocumentIndex": 36,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\TableController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\TableController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T17:23:36.995Z"
+              "WhenOpened": "2024-05-03T20:47:31.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Program.cs",
-              "RelativeToolTip": "TastifyAPI\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCgAAAAhAAAA",
+              "DocumentIndex": 37,
+              "Title": "JwtServiceExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Extentions\\JwtServiceExtentions.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Extentions\\JwtServiceExtentions.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Extentions\\JwtServiceExtentions.cs",
+              "RelativeToolTip": "TastifyAPI\\Extentions\\JwtServiceExtentions.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T12:20:56.595Z"
+              "WhenOpened": "2024-05-03T19:48:10.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TastifyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\appsettings.json",
+              "RelativeToolTip": "TastifyAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T19:39:34.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "TastifyAPI\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:17:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Entities\\Staff.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Entities\\Staff.cs",
+              "RelativeToolTip": "TastifyAPI\\Entities\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:45:18.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "TastifyAPI\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwFYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:33:56.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StaffLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\StaffLoginDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\StaffLoginDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\StaffLoginDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\StaffLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:52:30.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Data\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Data\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Data\\MongoDbService.cs",
+              "RelativeToolTip": "TastifyAPI\\Data\\MongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:05:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StaffDto.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\StaffDto.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\DTOs\\StaffDto.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\DTOs\\StaffDto.cs",
+              "RelativeToolTip": "TastifyAPI\\DTOs\\StaffDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:50:13.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "TastifyAPI\\Models\\LoginModel.cs",
@@ -355,27 +867,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TastifyAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\appsettings.json",
-              "RelativeToolTip": "TastifyAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-29T19:39:34.527Z"
+              "DocumentIndex": 45,
+              "Title": "Restarurant.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\Restarurant.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Models\\Restarurant.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\Restarurant.cs",
+              "RelativeToolTip": "TastifyAPI\\Models\\Restarurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:14:19.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MongoDbService.cs",
-              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Data\\MongoDbService.cs",
-              "RelativeDocumentMoniker": "TastifyAPI\\Data\\MongoDbService.cs",
-              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Data\\MongoDbService.cs",
-              "RelativeToolTip": "TastifyAPI\\Data\\MongoDbService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 47,
+              "Title": "TastifyDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\TastifyDbSettings.cs",
+              "RelativeDocumentMoniker": "TastifyAPI\\Models\\TastifyDbSettings.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\Models\\TastifyDbSettings.cs",
+              "RelativeToolTip": "TastifyAPI\\Models\\TastifyDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T13:05:11.457Z"
+              "WhenOpened": "2024-04-29T17:23:36.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TastifyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
+              "RelativeDocumentMoniker": "TastifyAPI\\TastifyAPI.csproj",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
+              "RelativeToolTip": "TastifyAPI\\TastifyAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T17:23:20.667Z"
             }
           ]
         }

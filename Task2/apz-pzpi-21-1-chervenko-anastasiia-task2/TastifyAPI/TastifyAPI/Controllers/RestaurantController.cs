@@ -16,24 +16,24 @@ namespace TastifyAPI.Controllers
     [Route("api/[controller]")]
     public class RestaurantsController : ControllerBase
     {
-        private readonly RestaurantsService _restaurantsService;
+        private readonly RestaurantService _restaurantsService;
         private readonly ILogger<RestaurantsController> _logger;
         private readonly IMapper _mapper;
 
-        public RestaurantsController(RestaurantsService restaurantsService, ILogger<RestaurantsController> logger, IMapper mapper)
+        public RestaurantsController(RestaurantService restaurantsService, ILogger<RestaurantsController> logger, IMapper mapper)
         {
             _restaurantsService = restaurantsService;
             _logger = logger;
             _mapper = mapper;
         }
 
-        [HttpGet("get-all-restaurants")]
-        public async Task<ActionResult<List<RestaurantDTO>>> Get()
+        [HttpGet]
+        public async Task<ActionResult<List<RestaurantDto>>> Get()
         {
             try
             {
                 var restaurants = await _restaurantsService.GetAsync();
-                var restaurantDtos = _mapper.Map<List<RestaurantDTO>>(restaurants);
+                var restaurantDtos = _mapper.Map<List<RestaurantDto>>(restaurants);
                 return Ok(restaurantDtos);
             }
             catch (Exception ex)
@@ -43,16 +43,16 @@ namespace TastifyAPI.Controllers
             }
         }
 
-        [HttpGet("get-restaurant/{id:length(24)}")]
-        public async Task<ActionResult<RestaurantDTO>> Get(string id)
+        [HttpGet("/{id:length(24)}")]
+        public async Task<ActionResult<RestaurantDto>> GetById(string id)
         {
             try
             {
-                var restaurant = await _restaurantsService.GetAsync(id);
+                var restaurant = await _restaurantsService.GetByIdAsync(id);
                 if (restaurant == null)
                     return NotFound();
 
-                var restaurantDto = _mapper.Map<RestaurantDTO>(restaurant);
+                var restaurantDto = _mapper.Map<RestaurantDto>(restaurant);
                 return Ok(restaurantDto);
             }
             catch (Exception ex)
@@ -63,15 +63,20 @@ namespace TastifyAPI.Controllers
         }
 
         [HttpPost("create-new-restaurant")]
-        public async Task<ActionResult<RestaurantDTO>> CreateNewRestaurant(RestaurantCreateDTO createDto)
+        public async Task<ActionResult<RestaurantDto>> Create(RestaurantDto restaurantDto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             try
             {
-                var restaurant = _mapper.Map<Restaurant>(createDto);
+                var restaurant = _mapper.Map<Restaurant>(restaurantDto);
                 await _restaurantsService.CreateAsync(restaurant);
 
-                var createdRestaurantDto = _mapper.Map<RestaurantDTO   >(restaurant);
-                return CreatedAtAction(nameof(Get), new { id = createdRestaurantDto.Id }, createdRestaurantDto);
+                var createdRestaurantDto = _mapper.Map<RestaurantDto>(restaurant);
+                return CreatedAtAction(nameof(GetById), new { id = createdRestaurantDto.Id }, createdRestaurantDto);
             }
             catch (Exception ex)
             {
@@ -85,7 +90,7 @@ namespace TastifyAPI.Controllers
         {
             try
             {
-                var restaurant = await _restaurantsService.GetAsync(id);
+                var restaurant = await _restaurantsService.GetByIdAsync(id);
                 if (restaurant == null)
                     return NotFound();
 
@@ -101,11 +106,11 @@ namespace TastifyAPI.Controllers
         }
 
         [HttpPut("update-restaurant/{id:length(24)}")]
-        public async Task<IActionResult> Update(string id, RestaurantUpdateDTO updateDto)
+        public async Task<IActionResult> Update(string id, RestaurantUpdateDto updateDto)
         {
             try
             {
-                var existingRestaurant = await _restaurantsService.GetAsync(id);
+                var existingRestaurant = await _restaurantsService.GetByIdAsync(id);
                 if (existingRestaurant == null)
                     return NotFound();
 
