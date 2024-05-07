@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTLOKrIsWl/EYPYDJxwlPYqVNIutXdtaU89GxWbHZaBQe+5sJJqAxuruuo5kOPCSoJjPto798PQxVuyGTKrcBg==",
+  "dgSpecHash": "kzTeEFNpx6vcQwJzUtL8kw/WKYL1zshrC2HnGjpbnkfFKIVO6FTcw9STLZXI4XRz/Z2mWpLcj+iOdE98EFZkXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
+  "projectFilePath": "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moivt\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\moivt\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

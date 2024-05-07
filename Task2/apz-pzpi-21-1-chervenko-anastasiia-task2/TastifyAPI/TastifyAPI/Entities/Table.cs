@@ -3,7 +3,7 @@ using MongoDB.Bson;
 
 namespace TastifyAPI.Entities
 {
-    public class Tables
+    public class Table
     {
         [BsonId]
         [BsonElement("_id"), BsonRepresentation(BsonType.ObjectId)]

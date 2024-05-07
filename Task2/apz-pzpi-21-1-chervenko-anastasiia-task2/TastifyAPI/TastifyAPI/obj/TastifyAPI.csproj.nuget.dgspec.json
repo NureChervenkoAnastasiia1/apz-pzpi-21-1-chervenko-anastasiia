@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj": {}
+    "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj": {
+    "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
         "projectName": "TastifyAPI",
-        "projectPath": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
+        "projectPath": "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\TastifyAPI.csproj",
         "packagesPath": "C:\\Users\\moivt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moivt\\source\\repos\\TastifyAPI\\TastifyAPI\\obj\\",
+        "outputPath": "C:\\Users\\moivt\\source\\repos\\apz-pzpi-21-1-chervenko-anastasiia\\Task2\\apz-pzpi-21-1-chervenko-anastasiia-task2\\TastifyAPI\\TastifyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\Visual Studio пакеты и инструменты\\NuGetPackages"

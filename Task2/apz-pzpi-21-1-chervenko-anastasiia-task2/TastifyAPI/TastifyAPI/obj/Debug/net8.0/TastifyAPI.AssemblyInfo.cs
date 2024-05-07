@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TastifyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+827c875e60d5acd63da4b7d6c4acb3c1df9fb820")]
 [assembly: System.Reflection.AssemblyProductAttribute("TastifyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TastifyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
